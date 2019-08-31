@@ -1,0 +1,12 @@
+{
+    "name":"codeception/util-rest-app",
+    "description":"REST app used in tests",
+    "homepage":"http://codeception.com/",
+    "type":"library",
+    "license":"MIT",
+    "authors":[
+        {
+            "name":"Gintautas Miselis"
+        }
+    ]
+}
